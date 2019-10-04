@@ -1,0 +1,31 @@
+header {
+    height: 200px;
+    border-width: 5px;
+    border-color: darkgrey;
+    border-style: solid;
+}
+.rectangle {
+    width: 50px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50px;
+    bottom: 50px;
+}
+.square {
+    width: 400px;
+    height: 175px;
+    background-color: green;
+    position: absolute;
+    left: 100px;
+    top: 27px;
+}
+.circle {
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    background-color: lightblue;
+    position: absolute;
+    left: 550px;
+    top: 15px;
+}
