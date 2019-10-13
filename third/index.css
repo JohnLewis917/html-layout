@@ -1,12 +1,59 @@
-.row-1 {
+.row {
     background: lightgray;
     height: 100px;
-    box-sizing: border-box
+    box-sizing: border-box;
+    margin-bottom: 50px;
+   
 }
 .box {
-    height: 50px;
-    width: 50px;
-    color: blue;
+    width: 75px;
+    height: 75px;
+    background-color: #4A90E2;;
+    box-sizing: border-box;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.row-1 {
+    background: white;
+    height: 200px;
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 100px;
+    word-wrap: unset;
+}
+.row-1-span { 
+    position: absolute;
+    text-align: left;
+    border: 500px;
+    font-size: 2rem
+}
+.row-2 {
+    background: #4A90E2;
+    height: 100px;
+    box-sizing: border-box;
+}
+.row-3 {
+    background: aquamarine;
+    height: 100px;
+    box-sizing: border-box;
+}
+.row-4 {
+    background: lightgreen;
+    height: 100px;
+    box-sizing: border-box;
+}
+.row-5 {
+    background: #f8E710;
+    height: 100px;
+    box-sizing: border-box;
+}
     
+    
+
+    
+   
+    
+
 
 }
