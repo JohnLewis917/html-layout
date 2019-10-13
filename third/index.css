@@ -1,11 +1,12 @@
-.row {
+.row-1 {
+    background: lightgray;
     height: 100px;
-    width: 100px;
+    box-sizing: border-box
 }
+.box {
+    height: 50px;
+    width: 50px;
+    color: blue;
+    
 
-.row-1{
-    background-color: black;
-    height: 100px;
-    width: 100%;
-    box-sizing: border-box;
 }
